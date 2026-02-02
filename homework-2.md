@@ -9,8 +9,8 @@
 
 ## Question 2. What is the rendered value of the variable file when the inputs taxi is set to green, year is set to 2020, and month is set to 04 during execution?
 
-- {{inputs.taxi}}_tripdata_{{inputs.year}}-{{inputs.month}}.csv <-
-- green_tripdata_2020-04.csv
+- {{inputs.taxi}}_tripdata_{{inputs.year}}-{{inputs.month}}.csv 
+- green_tripdata_2020-04.csv <-
 - green_tripdata_04_2020.csv
 - green_tripdata_2020.csv
 
